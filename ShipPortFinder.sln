@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipPortFinder", "ShipPortFinder.csproj", "{C2E370BC-C70B-4062-B360-FACA8E2A5536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipPortFinderTest", "ShipPortFinderTest\ShipPortFinderTest.csproj", "{23F5774A-0DC6-44E8-961D-65F0B6276E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E370BC-C70B-4062-B360-FACA8E2A5536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E370BC-C70B-4062-B360-FACA8E2A5536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E370BC-C70B-4062-B360-FACA8E2A5536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E370BC-C70B-4062-B360-FACA8E2A5536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F5774A-0DC6-44E8-961D-65F0B6276E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F5774A-0DC6-44E8-961D-65F0B6276E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F5774A-0DC6-44E8-961D-65F0B6276E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F5774A-0DC6-44E8-961D-65F0B6276E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46E8D13-442D-4CB6-8060-92BDE832E517}
+	EndGlobalSection
+EndGlobal
